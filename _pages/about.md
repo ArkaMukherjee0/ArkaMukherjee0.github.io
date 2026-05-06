@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: >
   Undergraduate Research Fellow, <a href="https://www.iitbbs.ac.in/" target="_blank">IIT Bhubaneswar</a>
-  (with <a href="https://sites.google.com/view/shreyaghosh/" target="_blank">Dr. Shreya Ghosh</a>).
+  (with <a href="https://shreghosh.github.io" target="_blank">Dr. Shreya Ghosh</a>).
   CS Junior, <a href="https://kiit.ac.in/" target="_blank">KIIT University</a>.
 
 profile:
