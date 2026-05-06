@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
+  },{id: "nav-news",
+          title: "news",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/news/";
           },
         },{id: "nav-publications",
           title: "publications",
@@ -23,40 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Arka Mukherjee — Undergraduate researcher in multimodal LLMs and VLM evaluation.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
@@ -440,16 +412,29 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-selected-for-a-winter-research-internship-at-iit-bhubaneswar-on-multimodal-fake-news-detection-with-dr-shreya-ghosh",
+          title: 'Selected for a winter research internship at IIT Bhubaneswar on multimodal fake news...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-received-the-kiit-merit-scholarship-ranked-in-the-top-0-8-of-the-computer-science-batch",
+          title: 'Received the KIIT Merit Scholarship — ranked in the top 0.8% of the...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-starting-a-summer-internship-at-the-dled-lab-iit-ropar-supported-by-the-iasc-insa-nasi-summer-research-fellowship",
+          title: 'Starting a summer internship at the DLED Lab, IIT Ropar, supported by the...',
+          description: "",
+          section: "News",},{id: "news-cultural-competence-vlm-paper-accepted-to-iccv-2025-asi-workshop-as-an-oral-presentation",
+          title: 'Cultural competence VLM paper accepted to ICCV 2025 ASI workshop as an Oral...',
+          description: "",
+          section: "News",},{id: "news-work-on-alternative-eval-metrics-beyond-accuracy-for-math-and-science-reasoning-accepted-to-the-neurips-2025-math-ai-workshop",
+          title: 'Work on alternative eval metrics beyond accuracy for math and science reasoning accepted...',
+          description: "",
+          section: "News",},{id: "news-attended-iccv-2025-in-honolulu-hawaii-to-present-my-social-ai-research",
+          title: 'Attended ICCV 2025 in Honolulu, Hawaii to present my social AI research.',
+          description: "",
+          section: "News",},{id: "news-team-blackwell-ranked-6-59-top-10th-percentile-in-the-neurips-2025-dcvlr-data-curation-challenge",
+          title: 'Team Blackwell ranked #6/59 (top 10th percentile) in the NeurIPS 2025 DCVLR data...',
+          description: "",
+          section: "News",},{id: "news-mmjee-eval-is-now-live-check-it-out-at-mmjee-eval-github-io",
+          title: 'mmJEE-Eval is now live! Check it out at mmjee-eval.github.io.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -511,21 +496,28 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/arka_mukherjee_cv.pdf", "_blank");
         },
       },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%61%72%6B%61.%6D%75%6B%68%65%72%6A%65%65%30%37%38@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://github.com/ArkaMukherjee0", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=", "_blank");
         },
       },{
         id: 'social-rss',
@@ -535,18 +527,11 @@ ninja.data = [{
           window.open("/feed.xml", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
         id: 'social-custom_social',
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://cybertechtok.com/", "_blank");
         },
       },{
       id: 'light-theme',
