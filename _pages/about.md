@@ -27,6 +27,6 @@ latest_posts:
   enabled: false
 ---
 
-Hi, I'm Arka Mukherjee, a KIIT CS junior passionate about research in multimodal LLMs, evaluation, and reasoning. Currently, I am a funded Research Fellow at IIT Bhubaneswar with Dr. Shreya Ghosh. Previously, I spent a summer at the VLED lab, IIT Ropar, and contributed to AI security research at RespAI Lab, KIIT.
+Hi, I'm Arka Mukherjee, a KIIT CS junior passionate about research in multimodal LLMs, evaluation, and reasoning with a focus on human-computer and agent-computer interaction. Currently, I am a funded Research Fellow at IIT Bhubaneswar with Dr. Shreya Ghosh. Previously, I spent a summer at the VLED lab, IIT Ropar, and contributed to AI security research at RespAI Lab, KIIT.
 
 Beyond research, I engage with the tech community as a tech journalist and YouTuber, where I share insights on GPUs and emerging trends in AI.
