@@ -6,8 +6,9 @@ cv:
   image: ""
   summary: >
     Undergraduate researcher focused on multimodal LLM evaluation, reasoning benchmarks,
-    and AI agents. Research Fellow at IIT Bhubaneswar (with Dr. Shreya Ghosh).
-    CS junior at KIIT University (GPA 9.73/10). Published at ICCV 2025 and IJCNLP-AACL 2025.
+    and AI agents. Summer research intern at USC (Interaction Lab, with Prof. Maja Matarić)
+    and Research Fellow at IIT Bhubaneswar (with Dr. Shreya Ghosh).
+    CS senior at KIIT University (GPA 9.73/10). Published at ICCV 2025 and IJCNLP-AACL 2025.
 
   social_networks:
     - network: GitHub
@@ -23,9 +24,19 @@ cv:
         start_date: "2023-07-01"
         end_date: "2027-05-01"
         score: "9.73/10.0"
-        courses: "Agentic AI, Probability & Statistics, Machine Learning, Algorithms, Data Mining, Human-Computer Interaction"
+        courses: "Agentic AI, Probability & Statistics, Data Analytics, Machine Learning, AI, Algorithms, Data Mining, Human-Computer Interaction"
 
     Experience:
+      - company: University of Southern California
+        position: IUSSTF-Viterbi Summer Research Intern
+        location: Los Angeles, CA
+        start_date: "2026-05-01"
+        end_date: ""
+        summary: "Advisor: Prof. Maja Matarić (Interaction Lab)"
+        highlights:
+          - "Multimodal Social Engagement: building novel pipelines that combine long-video understanding and agentic techniques to improve engagement detection with VLMs."
+          - "Contributed to lab infrastructure for LLM inference."
+
       - company: Carnegie Mellon University
         position: Research Intern
         location: Remote
@@ -45,7 +56,7 @@ cv:
         highlights:
           - "Developed mmJEE-Eval, a 1,460-problem multimodal STEM reasoning benchmark evaluating 17 VLMs. Discovered metacognitive barriers: VLMs detect 53% of errors but correct only 3.5%. (IJCNLP-AACL 2025 Findings)"
           - "Created the first evaluation framework for VLM cultural competence via multimodal story generation on 5 VLMs. (Oral @ ICCV 2025 ASI Workshop)"
-          - "Proposed ICE, a new evaluation paradigm modeling real-world tasks across 7 scaffolds and 5 frontier models."
+          - "Proposed ICE, a new evaluation paradigm modeling real-world tasks; engineered novel harnesses to improve frontier agentic terminal-coding performance (CoTDL-mini-SWE-agent)."
 
       - company: IIT Ropar
         position: Summer Research Fellow (IASc-INSA-NASI)
@@ -99,6 +110,11 @@ cv:
         awarder: IJCNLP-AACL 2025
         summary: "Travel grant for presenting at IJCNLP-AACL 2025."
 
+      - title: "AI Grants India"
+        date: "2025-11-01"
+        awarder: AI Grants India
+        summary: "API keys and compute credits to support research."
+
       - title: "NeurIPS 2025 DCVLR Challenge — #6/59"
         date: "2025-11-01"
         awarder: NeurIPS 2025
@@ -111,7 +127,7 @@ cv:
 
       - name: ML / NLP Frameworks
         icon: fa-solid fa-robot
-        keywords: "PyTorch, HuggingFace Transformers, TRL, Unsloth, LM Studio, Docker"
+        keywords: "PyTorch, HuggingFace Transformers, Datasets & TRL, Unsloth, LM Studio, Docker"
 
       - name: Agentic AI
         icon: fa-solid fa-gears
@@ -124,4 +140,4 @@ cv:
 
       - name: Outreach
         icon: fa-solid fa-pen
-        keywords: "Tech journalism (10M+ reads), GPU reviews (Nvidia RTX 5090/5080/5070 sponsor), YouTube"
+        keywords: "Tech journalism (10M+ reads), hardware reviews with Nvidia / AMD / ASUS (Nvidia RTX 5090/5080/5070 sponsor), YouTube"

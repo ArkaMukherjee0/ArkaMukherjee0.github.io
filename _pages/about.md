@@ -3,9 +3,11 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Undergraduate Research Fellow, <a href="https://www.iitbbs.ac.in/" target="_blank">IIT Bhubaneswar</a>
+  Summer Research Intern, <a href="https://uscinteractionlab.us/" target="_blank">USC Interaction Lab</a>
+  (with <a href="https://uscinteractionlab.us/people/" target="_blank">Prof. Maja Matarić</a>).
+  Research Fellow, <a href="https://www.iitbbs.ac.in/" target="_blank">IIT Bhubaneswar</a>
   (with <a href="https://shreghosh.github.io" target="_blank">Dr. Shreya Ghosh</a>).
-  CS Junior, <a href="https://kiit.ac.in/" target="_blank">KIIT University</a>.
+  CS Senior, <a href="https://kiit.ac.in/" target="_blank">KIIT University</a>.
 
 profile:
   align: right
@@ -13,7 +15,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>arka.mukherjee078@gmail.com</p>
-    <p>Bhubaneswar, India</p>
+    <p>Los Angeles, CA · Bhubaneswar, India</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,6 +29,6 @@ latest_posts:
   enabled: false
 ---
 
-Hi, I'm Arka Mukherjee, a KIIT CS junior passionate about research in multimodal LLMs, evaluation, and reasoning with a focus on human-computer and agent-computer interaction. Currently, I am a funded Research Fellow at IIT Bhubaneswar with Dr. Shreya Ghosh. Previously, I spent a summer at the VLED lab, IIT Ropar, and contributed to AI security research at RespAI Lab, KIIT.
+Hi, I'm Arka Mukherjee, a final-year KIIT CS student passionate about research in multimodal LLMs, evaluation, and reasoning with a focus on human-computer and agent-computer interaction. Currently, I am an IUSSTF-Viterbi summer research intern at the USC Interaction Lab with Prof. Maja Matarić, and a funded Research Fellow at IIT Bhubaneswar with Dr. Shreya Ghosh. Previously, I was a research intern at Carnegie Mellon University with Dr. Min Xu, spent a summer at the VLED lab, IIT Ropar, and contributed to AI security research at RespAI Lab, KIIT.
 
 Beyond research, I engage with the tech community as a tech journalist and YouTuber, where I share insights on GPUs and emerging trends in AI.
