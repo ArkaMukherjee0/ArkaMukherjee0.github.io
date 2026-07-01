@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my IUSSTF-Viterbi summer research internship at the <a href="https://uscinteractionlab.us/" target="_blank">USC Interaction Lab</a> with Prof. Maja Matarić!
+Started my IUSSTF-Viterbi summer research internship at the <a href="https://uscinteractionlab.web.app" target="_blank">USC Interaction Lab</a> with Prof. Maja Matarić!
