@@ -2,12 +2,14 @@ cv:
   name: Arka Mukherjee
   label: Undergraduate Researcher
   email: arka.mukherjee078@gmail.com
-  location: Bhubaneswar, India
+  location: Bengaluru, India
   image: ""
   summary: >
     Undergraduate researcher focused on multimodal LLM evaluation, reasoning benchmarks,
-    and AI agents. Research Fellow at IIT Bhubaneswar (with Dr. Shreya Ghosh).
-    CS junior at KIIT University (GPA 9.73/10). Published at ICCV 2025 and IJCNLP-AACL 2025.
+    and AI agents. Incoming Research Intern on the AMD AGI team working on LLM inference,
+    Research Fellow at IIT Bhubaneswar (with Dr. Shreya Ghosh), and IUSSTF-Viterbi
+    Summer Research Intern at USC. CS junior at KIIT University (GPA 9.74/10).
+    Published at ICCV 2025, IJCNLP-AACL 2025, and EMNLP 2026 Findings.
 
   social_networks:
     - network: GitHub
@@ -16,16 +18,33 @@ cv:
   sections:
     Education:
       - institution: Kalinga Institute of Industrial Technology (KIIT)
-        location: Bhubaneswar, India
+        location: Bengaluru, India
         url: https://kiit.ac.in/
         area: Computer Science and Systems Engineering
         studyType: B.Tech CSE
         start_date: "2023-07-01"
-        end_date: "2027-05-01"
-        score: "9.73/10.0"
+        end_date: "2027-04-01"
+        score: "9.74/10.0"
         courses: "Agentic AI, Probability & Statistics, Machine Learning, Algorithms, Data Mining, Human-Computer Interaction"
 
     Experience:
+      - company: AMD
+        position: Incoming Research Intern
+        location: Bengaluru, India
+        summary: "AMD AGI Team"
+        highlights:
+          - "Working on LLM inference."
+
+      - company: University of Southern California
+        position: IUSSTF-Viterbi Summer Research Intern
+        location: Bengaluru, India
+        start_date: "2026-05-01"
+        end_date: "2026-08-01"
+        summary: "Advisor: Dr. Maja Mataric"
+        highlights:
+          - "Built LazySloth, a fast video understanding method that improved retrieval efficiency by up to 8.3x over existing pipelines such as VideoLucy and WorldMM, while retaining task accuracy."
+          - "Contributed to lab infrastructure on LLM inference. (Submitted to AAAI 2027)"
+
       - company: Carnegie Mellon University
         position: Research Intern
         location: Remote
@@ -33,19 +52,20 @@ cv:
         end_date: "2026-05-01"
         summary: "Advisor: Dr. Min Xu"
         highlights:
-          - "Applied GRPO, DPO, and PPO to study RL generalization to low-sampling decoding tasks (64-token action space)."
-          - "Improved VRAM efficiency and iterated GRPO training on 800k+ datapoints."
+          - "Applied GRPO, DPO, and PPO to study RL generalization to codon translation, a low-sampling decoding task (64-token action space)."
+          - "Improved VRAM efficiency of the code to iterate GRPO on 800k+ datapoints."
 
       - company: IIT Bhubaneswar
         position: Undergraduate Research Fellow (Funded)
-        location: Bhubaneswar, India
+        location: Bengaluru, India
         start_date: "2024-12-01"
         end_date: ""
         summary: "Advisor: Dr. Shreya Ghosh"
         highlights:
           - "Developed mmJEE-Eval, a 1,460-problem multimodal STEM reasoning benchmark evaluating 17 VLMs. Discovered metacognitive barriers: VLMs detect 53% of errors but correct only 3.5%. (IJCNLP-AACL 2025 Findings)"
           - "Created the first evaluation framework for VLM cultural competence via multimodal story generation on 5 VLMs. (Oral @ ICCV 2025 ASI Workshop)"
-          - "Proposed ICE, a new evaluation paradigm modeling real-world tasks across 7 scaffolds and 5 frontier models."
+          - "Proposed ICE, a new evaluation paradigm unlike benchmarks and leaderboards that models real-world tasks."
+          - "Engineered CoTDL-mini-SWE-agent, a novel coding harness to improve frontier agentic terminal coding performance. (Submitted to NeurIPS 2026)"
 
       - company: IIT Ropar
         position: Summer Research Fellow (IASc-INSA-NASI)
@@ -57,11 +77,20 @@ cv:
           - "Developed EduVLM-Bench for STEM prerequisite detection and evaluated 5 open-source LLMs. Top model (Gemma3 27B) achieved 38.5% accuracy."
 
     Publications:
+      - title: "GeoAgent: Evaluating VLM Geolocalization Through Embodied Navigation"
+        authors:
+          - Arka Mukherjee
+          - Soham Roy
+          - Krish Trivedi
+          - Shreya Ghosh
+        publisher: "EMNLP 2026 Findings"
+        releaseDate: "2026-11-01"
+
       - title: "Toward Socially Aware Vision-Language Models: Evaluating Cultural Competence Through Multimodal Story Generation"
         authors:
           - Arka Mukherjee
           - Shreya Ghosh
-        publisher: "ICCV 2025 Workshop on Artificial Social Intelligence (ASI) — Oral"
+        publisher: "ICCV 2025 Workshop on Artificial Social Intelligence (ASI) - Oral"
         releaseDate: "2025-10-01"
         url: "https://openaccess.thecvf.com/content/ICCV2025W/ASI/papers/Mukherjee_Toward_Socially_Aware_Vision-Language_Models_Evaluating_Cultural_Competence_Through_Multimodal_ICCVW_2025_paper.pdf"
 
@@ -73,16 +102,23 @@ cv:
         releaseDate: "2025-11-01"
         url: "https://aclanthology.org/2025.findings-ijcnlp.140/"
 
+      - title: "ICE: Heterogeneously Composing Tasks to Evaluate Closed-Loop Coordination in LLMs"
+        authors:
+          - Arka Mukherjee
+          - Shreya Ghosh
+        publisher: "Submitted to NeurIPS 2026"
+        releaseDate: "2026-05-01"
+
     Awards:
+      - title: "Singapore AI Safety Hub (SASH) FAST Fellow"
+        date: "2026-08-01"
+        awarder: Singapore AI Safety Hub
+        summary: "Selected for the fully funded Frontier AI Security Training fellowship with a 2.8% acceptance rate."
+
       - title: KIIT Merit Scholar (Dean's List)
         date: "2025-02-08"
         awarder: KIIT University
-        summary: "Top 0.8% of CS batch. Awarded for 5 consecutive semesters."
-
-      - title: IUSSTF-Viterbi Scholar
-        date: "2026-02-28"
-        awarder: IUSSTF / University of Southern California
-        summary: "One of 15 students selected from India for a research position at USC."
+        summary: "Dean's List recognition for 6 semesters."
 
       - title: Amgen Scholars Program
         date: "2026-03-14"
@@ -99,7 +135,7 @@ cv:
         awarder: IJCNLP-AACL 2025
         summary: "Travel grant for presenting at IJCNLP-AACL 2025."
 
-      - title: "NeurIPS 2025 DCVLR Challenge — #6/59"
+      - title: "NeurIPS 2025 DCVLR Challenge - #6/59"
         date: "2025-11-01"
         awarder: NeurIPS 2025
         summary: "Team Blackwell ranked 6th out of 59 teams (top 10th percentile)."
@@ -115,7 +151,7 @@ cv:
 
       - name: Agentic AI
         icon: fa-solid fa-gears
-        keywords: "Langchain, Playwright, mini-SWE-agent"
+        keywords: "LangChain, Playwright, mini-SWE-agent"
 
     Interests:
       - name: Research

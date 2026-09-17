@@ -5,6 +5,8 @@ permalink: /
 subtitle: >
   Undergraduate Research Fellow, <a href="https://www.iitbbs.ac.in/" target="_blank">IIT Bhubaneswar</a>
   (with <a href="https://shreghosh.github.io" target="_blank">Dr. Shreya Ghosh</a>).
+  Incoming Research Intern, AMD AGI Team.
+  IUSSTF-Viterbi Summer Research Intern, <a href="https://www.usc.edu/" target="_blank">USC</a>.
   CS Junior, <a href="https://kiit.ac.in/" target="_blank">KIIT University</a>.
 
 profile:
@@ -13,7 +15,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>arka.mukherjee078@gmail.com</p>
-    <p>Bhubaneswar, India</p>
+    <p>Bengaluru, India</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,6 +29,8 @@ latest_posts:
   enabled: false
 ---
 
-Hi, I'm Arka Mukherjee, a KIIT CS junior passionate about research in multimodal LLMs, evaluation, and reasoning with a focus on human-computer and agent-computer interaction. Currently, I am a funded Research Fellow at IIT Bhubaneswar with Dr. Shreya Ghosh. Previously, I spent a summer at the VLED lab, IIT Ropar, and contributed to AI security research at RespAI Lab, KIIT.
+Hi, I'm Arka Mukherjee, a KIIT CS junior passionate about research in multimodal LLMs, evaluation, reasoning, and AI agents, with a focus on human-computer and agent-computer interaction. Currently, I am an incoming Research Intern on the AMD AGI team working on LLM inference, and a funded Research Fellow at IIT Bhubaneswar with Dr. Shreya Ghosh. I was also an IUSSTF-Viterbi Summer Research Intern at USC with Dr. Maja Mataric, where I worked on efficient long-video understanding, and a Research Intern at Carnegie Mellon University with Dr. Min Xu, where I studied reinforcement learning for low-sampling decoding tasks.
+
+My recent work includes mmJEE-Eval for multimodal STEM reasoning, cultural competence evaluation for VLMs, GeoAgent for embodied geolocalization, and ICE for closed-loop coordination in LLM agents. My papers have appeared in ICCV 2025 ASI, IJCNLP-AACL 2025 Findings, and EMNLP 2026 Findings.
 
 Beyond research, I engage with the tech community as a tech journalist and YouTuber, where I share insights on GPUs and emerging trends in AI.
