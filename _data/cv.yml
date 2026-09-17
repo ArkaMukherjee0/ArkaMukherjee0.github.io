@@ -65,7 +65,7 @@ cv:
           - "Developed mmJEE-Eval, a 1,460-problem multimodal STEM reasoning benchmark evaluating 17 VLMs. Discovered metacognitive barriers: VLMs detect 53% of errors but correct only 3.5%. (IJCNLP-AACL 2025 Findings)"
           - "Created the first evaluation framework for VLM cultural competence via multimodal story generation on 5 VLMs. (Oral @ ICCV 2025 ASI Workshop)"
           - "Proposed ICE, a new evaluation paradigm unlike benchmarks and leaderboards that models real-world tasks."
-          - "Engineered CoTDL-mini-SWE-agent, a novel coding harness to improve frontier agentic terminal coding performance. (Submitted to NeurIPS 2026)"
+          - "Engineered CoTDL-mini-SWE-agent, a novel coding harness to improve frontier agentic terminal coding performance."
 
       - company: IIT Ropar
         position: Summer Research Fellow (IASc-INSA-NASI)
@@ -81,10 +81,10 @@ cv:
         authors:
           - Arka Mukherjee
           - Soham Roy
-          - Krish Trivedi
+          - Kartikeya
           - Shreya Ghosh
         publisher: "EMNLP 2026 Findings"
-        releaseDate: "2026-11-01"
+        releaseDate: "2026-10-01"
 
       - title: "Toward Socially Aware Vision-Language Models: Evaluating Cultural Competence Through Multimodal Story Generation"
         authors:
@@ -101,13 +101,6 @@ cv:
         publisher: "IJCNLP-AACL 2025 Findings"
         releaseDate: "2025-11-01"
         url: "https://aclanthology.org/2025.findings-ijcnlp.140/"
-
-      - title: "ICE: Heterogeneously Composing Tasks to Evaluate Closed-Loop Coordination in LLMs"
-        authors:
-          - Arka Mukherjee
-          - Shreya Ghosh
-        publisher: "Submitted to NeurIPS 2026"
-        releaseDate: "2026-05-01"
 
     Awards:
       - title: "Singapore AI Safety Hub (SASH) FAST Fellow"
