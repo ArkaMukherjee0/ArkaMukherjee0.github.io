@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-GeoAgent was accepted to <strong>EMNLP 2026 Findings</strong>, held in October 2026!
+GeoAgent was accepted to <strong>EMNLP 2026</strong>!
