@@ -37,13 +37,13 @@ cv:
 
       - company: University of Southern California
         position: IUSSTF-Viterbi Summer Research Intern
-        location: Bengaluru, India
+        location: Los Angeles, CA
         start_date: "2026-05-01"
         end_date: "2026-08-01"
         summary: "Advisor: Dr. Maja Mataric"
         highlights:
-          - "Built LazySloth, a fast video understanding method that improved retrieval efficiency by up to 8.3x over existing pipelines such as VideoLucy and WorldMM, while retaining task accuracy."
-          - "Contributed to lab infrastructure on LLM inference. (Submitted to AAAI 2027)"
+          - "Built LazySloth, a fast video understanding method that improved retrieval efficiency by up to 8.3x over existing pipelines such as VideoLucy and WorldMM, while retaining task accuracy. (Submitted to AAAI 2027)"
+          - "Contributed to lab infrastructure on LLM inference."
 
       - company: Carnegie Mellon University
         position: Research Intern
@@ -57,7 +57,7 @@ cv:
 
       - company: IIT Bhubaneswar
         position: Undergraduate Research Fellow (Funded)
-        location: Bengaluru, India
+        location: Bhubaneswar, India
         start_date: "2024-12-01"
         end_date: ""
         summary: "Advisor: Dr. Shreya Ghosh"
