@@ -85,6 +85,8 @@ cv:
           - Shreya Ghosh
         publisher: "EMNLP 2026 Findings"
         releaseDate: "2026-10-01"
+        url: "https://geoagent-benchmark.github.io"
+        summary: "[PDF](https://arxiv.org/abs/2608.29483)"
 
       - title: "Toward Socially Aware Vision-Language Models: Evaluating Cultural Competence Through Multimodal Story Generation"
         authors:
