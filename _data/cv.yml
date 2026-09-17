@@ -147,7 +147,7 @@ cv:
 
       - name: ML / NLP Frameworks
         icon: fa-solid fa-robot
-        keywords: "PyTorch, HuggingFace Transformers, TRL, Unsloth, LM Studio, Docker"
+        keywords: "PyTorch, HuggingFace Transformers, Datasets & TRL, Unsloth, LM Studio, Docker"
 
       - name: Agentic AI
         icon: fa-solid fa-gears
@@ -160,4 +160,4 @@ cv:
 
       - name: Outreach
         icon: fa-solid fa-pen
-        keywords: "Tech journalism (10M+ reads), GPU reviews (Nvidia RTX 5090/5080/5070 sponsor), YouTube"
+        keywords: "Tech journalism (10M+ reads), hardware reviews with Nvidia / AMD / ASUS (Nvidia RTX 5090/5080/5070 sponsor), YouTube"

@@ -3,7 +3,9 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Undergraduate Research Fellow, <a href="https://www.iitbbs.ac.in/" target="_blank">IIT Bhubaneswar</a>
+  Summer Research Intern, <a href="https://uscinteractionlab.web.app" target="_blank">USC Interaction Lab</a>
+  (with <a href="https://maja-mataric.web.app" target="_blank">Prof. Maja Matarić</a>).
+  Research Fellow, <a href="https://www.iitbbs.ac.in/" target="_blank">IIT Bhubaneswar</a>
   (with <a href="https://shreghosh.github.io" target="_blank">Dr. Shreya Ghosh</a>).
   Incoming Research Intern, AMD AGI Team.
   IUSSTF-Viterbi Summer Research Intern, <a href="https://www.usc.edu/" target="_blank">USC</a>.
