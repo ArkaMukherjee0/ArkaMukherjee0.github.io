@@ -29,6 +29,6 @@ latest_posts:
   enabled: false
 ---
 
-Hi, I'm Arka Mukherjee, a KIIT CS junior passionate about research in multimodal LLMs, evaluation, reasoning, and AI agents, with a focus on human-computer and agent-computer interaction. Currently, I am an incoming Research Intern on the AMD AGI team working on LLM inference, and do research at IIT Bhubaneswar with Dr. Shreya Ghosh. I was also an IUSSTF-Viterbi Summer Research Intern at USC with Dr. Maja Mataric, where I worked on efficient long-video understanding.
+Hi, I'm Arka Mukherjee, a KIIT CS senior passionate about research in multimodal LLMs, evaluation science, reasoning, and AI agents, with a focus on human-computer and agent-computer interaction. Currently, I am an incoming Research Intern on the AMD AGI team working on LLM inference, and do research at IIT Bhubaneswar with Dr. Shreya Ghosh. I was also an IUSSTF-Viterbi Summer Research Intern at USC with Dr. Maja Mataric, where I worked on efficient long-video understanding.
 
 Beyond research, I engage with the tech community as a tech journalist, where I share insights on GPUs and emerging trends in AI.
