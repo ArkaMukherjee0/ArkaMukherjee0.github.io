@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am joining the <strong>AMD AGI team</strong> as an incoming Research Intern working on LLM inference.
+I am joining the <strong>AMD AGI team</strong> as a Research Intern working on LLM inference.
